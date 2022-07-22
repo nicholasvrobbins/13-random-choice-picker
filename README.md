@@ -1,6 +1,6 @@
 2022-07-22
 
-Live Demo:
+Live Demo: https://taupe-buttercream-19ace7.netlify.app/
 
 Summary: Following along with Brad and Florin's 50 Projects in 50 Days to better understand JavaScript.
 
